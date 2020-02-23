@@ -1,0 +1,32 @@
+{
+  "name": "@voliware/websocketclient",
+  "version": "1.0.0",
+  "description": "A Javascript WebSocket wrapper with ping, pong, and auto reconnect features",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voliware/WebSocketClient.git"
+  },
+  "scripts": {
+    "build": "node build"
+  },
+  "keywords": [
+    "websocketclient",
+    "ws",
+    "wss",
+    "web",
+    "socket",
+    "websocket",
+    "reconnect"
+  ],
+  "author": "Anthony Agostino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Voliware/WebSocketClient/issues"
+  },
+  "homepage": "https://github.com/Voliware/WebSocketClient#readme",
+  "devDependencies": {
+    "@voliware/eventsystem": "^1.0.2",
+    "@voliware/node-build": "^1.3.1"
+  },
+  "dependencies": {}
+}
