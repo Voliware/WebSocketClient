@@ -1,7 +1,7 @@
 {
   "name": "@voliware/websocketclient",
-  "version": "1.0.0",
-  "description": "A Javascript WebSocket wrapper with ping, pong, and auto reconnect features",
+  "version": "2.0.2",
+  "description": "A Javascript WebSocket wrapper with auto reconnect features",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Voliware/WebSocketClient.git"
