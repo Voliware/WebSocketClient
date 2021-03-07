@@ -1,6 +1,6 @@
 {
   "name": "@voliware/websocketclient",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A Javascript WebSocket wrapper with auto reconnect features",
   "repository": {
     "type": "git",
